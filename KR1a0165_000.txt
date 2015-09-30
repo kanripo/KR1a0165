@@ -1,5 +1,5 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易緯辨終備
-#+DATE: 2015-09-23 09:35:45
-#+PROPERTY: JUAN 0
-
+#+DATE: 2015-08-24 22:01:12.980601
+#+PROPERTY: ID KR1a0165
+#+PROPERTY: BASEEDITION WYG    
